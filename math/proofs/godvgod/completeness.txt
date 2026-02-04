@@ -1,0 +1,30 @@
+let f be a function, let g be a function equivilant to f.
+
+f is defined as:
+    f --> ALL=(ALL:ALL) ALL
+
+And thus g can be define as:
+    g --> f --> ALL=(ALL:ALL) ALL
+
+Every Series of f resultant in:
+    f (i) --> r 
+    f - 1 (r) --> i  
+
+    in all cases.
+
+Unlike MPS:
+    f (i) ~~> r 
+    f - 1 (r) ~~> range (i + n, i - n, all range RSLT)
+
+    in all cases.
+
+Now situational set:
+    f (i1) --> set output
+    i1 == pkill -9 (g)
+
+    g (i2) --> set output
+    i2 == pkill -9 (f)
+
+either exist (f) == 0, or exist (g) == 0.
+
+Compute Resulting.

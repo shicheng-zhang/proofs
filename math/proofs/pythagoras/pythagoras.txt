@@ -1,0 +1,29 @@
+Proofs series for pythagorian theorem
+Proof No 1:
+
+Let a ^ 2 + b ^ 2 = c ^ 2
+
+  a ^ 2
+ ----
+|\c^2| b ^ 2
+| \  |
+ ____
+
+Under conditions that a ^ 2 + b ^ 2 = c ^ 2
+
+we have equation of forming sq, where 4 equal triangles form a square, with hypotenuse forming center square. 
+center square = c ^ 2
+outside larger square = (a + b) ^ 2 or a ^ 2 + 2ab + b ^ 2
+
+However:
+    
+Since Total area of larger sq = (a + b) ^ 2
+the four triangles each are 4 * (.5 * a * b)
+    = 2ab
+But the total area of the triangle is (a + b) ^ 2 
+And it is also equal to the c ^ 2 square plus the 4 triangles
+So it would surmise that:
+    c ^ 2 + 2ab = a ^ 2 + 2ab + b ^ 2
+    remove 2ab from each side
+
+Then final eq --> c ^ 2 = a ^ 2 + b ^ 2
