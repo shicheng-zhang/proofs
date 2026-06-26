@@ -1,0 +1,34 @@
+We can deduce the fact that black holes do not have infinite mass:
+
+M (black hole) ~= M (main seq star resulting in black hole)
+
+Therefore:
+    Fg (black hole) != Infinite
+
+but since g == GMR^-2
+    R is infinitessimally small for astronomical standards
+
+Therefore g, although not infinite, is a absurdly large value.
+
+
+
+Photons do not experience massive refraction from large amounts of electromagnetic radiation:
+    Eg: No electron curviature around magnetars
+
+Therefore:
+    Photon movement is entirely dependent on the mass of the photon.
+
+    Deduction --> c != infinite
+
+But: Photons are massless
+    Fa == ma 
+    Fg == mg 
+
+if m == 0, then (Fa || Fg) == 0
+    Therefore --> If photon mass == 0, Fa (black hole) == 0, no change in motion will occur.
+
+But --> light bends around a black hole:
+    If under deduction that photons do not experience severe deviations from electromagnetic radiation:
+    Fg --> influence on photons
+    And since Fg has influence on photons --> Fnet (gravity black hole) != 0
+    And thus --> Mass (photon) != 0

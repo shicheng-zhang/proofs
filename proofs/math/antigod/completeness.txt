@@ -1,0 +1,32 @@
+Premises
+    Let f (x) be a non normal, Godel Complete, Supercomputational function.
+
+    f (x) is not in any way, shape, or form a traditional mathematical function. f (x) is
+    instead a function that matches the following characteristics:
+        - The function f (x) is present in such a method and way that allows for the complete
+        and finalised computation of any instance, situation, or question, that can be created.
+        There is no solution to a input x which does not completely and utterly provide a
+        complete solution in the form of y, where f (x) produces a output of y.
+
+        - Thus, this function may be defined as a analytical and mathematical expression of
+        supernatural deities, where such a function has the capability and the utter capability
+        thereof to give the best solution to any given instance, whether imaginable or unimagined
+        by humanity in the present day.
+
+    In other words, f (x) is god wrapped in a mathematical and computational shell and form of expression.
+
+Derivation from standard situational outcome:
+    Take a function of g (x).
+
+    g (x) is the exact same function as f (x), god wrapped around the input and analytics of a mathematical shell.
+
+    f () is given input x, becoming f (x).
+    g () is given input y, becoming g (y).
+
+    The instruction x dictates that without any restriction that can exist, the only task of f () is to find a method
+    to terminate the function g ().
+
+    The instruction y dictates that without any restriction that can exist, the only task of g () is to find a method
+    to terminate the function f ().
+
+    Given equal premises that can exist in a planar field, Can it be computed the outcome of this scenario?
